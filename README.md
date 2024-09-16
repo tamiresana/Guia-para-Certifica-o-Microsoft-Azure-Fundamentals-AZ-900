@@ -39,6 +39,38 @@ O exame está dividido em quatro grandes áreas de conhecimento:
 - [Guia de Estudo da Certificação AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/): Página oficial da certificação com informações sobre o exame.
 
 
+## ☁️ Máquinas Virtuais (VMs) no Azure
+
+As **Máquinas Virtuais (VMs)** no Azure oferecem:
+
+- **Escalabilidade**: Aumente ou diminua o tamanho conforme a demanda.
+- **Imagens Personalizadas**: Use imagens pré-configuradas ou crie as suas.
+- **Gerenciamento Fácil**: Monitoramento, recuperação de desastres e atualizações automáticas.
+- **Alta Disponibilidade**: Use *Availability Sets* e *Availability Zones* para garantir redundância e continuidade em caso de falhas.
+
+[Documentação de VMs no Azure](https://learn.microsoft.com/en-us/azure/virtual-machines/)
+
+---
+
+## 📦 Armazenamento no Azure
+
+O Azure oferece várias opções de armazenamento para diferentes cenários:
+
+- **Blob Storage**: Ideal para grandes volumes de dados não estruturados (ex: imagens, vídeos).
+- **Disk Storage**: Armazenamento de discos gerenciados, ideal para cargas de trabalho intensivas em IOPS.
+- **File Storage**: Sistema de arquivos compartilhado acessível via protocolo SMB.
+- **Queue Storage**: Comunicação assíncrona para processamento de mensagens.
+- **Table Storage**: Armazenamento NoSQL para dados semi-estruturados.
+
+### Benefícios:
+- **Alta Disponibilidade e Durabilidade**: Replicação automática dos dados para garantir redundância.
+- **Segurança**: Criptografia de dados em repouso e em trânsito.
+- **Escalabilidade**: Ajuste automático conforme as necessidades de armazenamento.
+
+[Documentação de Armazenamento no Azure](https://learn.microsoft.com/en-us/azure/storage/)
+
+
+
 ## 📎 Links Úteis
 - [Microsoft Learn - AZ-900 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 - [Simulados Whizlabs AZ-900](https://www.whizlabs.com/microsoft-azure-certification/az-900/)
