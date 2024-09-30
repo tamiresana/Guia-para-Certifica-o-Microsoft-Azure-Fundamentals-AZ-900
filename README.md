@@ -67,11 +67,42 @@ O Azure oferece várias opções de armazenamento para diferentes cenários:
 - **Segurança**: Criptografia de dados em repouso e em trânsito.
 - **Escalabilidade**: Ajuste automático conforme as necessidades de armazenamento.
 
-[Documentação de Armazenamento no Azure](https://learn.microsoft.com/en-us/azure/storage/)
 
+## 💡 Dicas para Otimizar Custos no Azure
+
+1. **Uso de Níveis Gratuitos**: Aproveite os serviços no Azure que oferecem camadas gratuitas (ex: VMs e armazenamento).
+
+2. **Reserva de Instâncias**: Economize até 72% com instâncias reservadas para VMs e outros serviços de longo prazo.
+
+3. **Autoescala**: Configure a autoescala para ajustar automaticamente os recursos com base na demanda, evitando sobrecarga desnecessária.
+
+4. **Uso de Calculadoras de Custo**: Utilize a [Calculadora de Preços do Azure](https://azure.microsoft.com/en-us/pricing/calculator/) para estimar custos e ajustar recursos.
+
+5. **Monitoramento com Azure Cost Management**: Monitore e controle o consumo de recursos e orçamento com o [Azure Cost Management](https://azure.microsoft.com/en-us/services/cost-management/).
+
+6. **Desligamento Automático de VMs**: Programe o desligamento de VMs quando não estiverem em uso, como fora do horário comercial.
+
+   
+
+## 🔒 Gerenciando Políticas de Acesso no Azure
+
+1. **Azure Policy**: Use para criar, atribuir e gerenciar políticas que garantem a conformidade de recursos com regras definidas.
+
+2. **Controle de Acesso Baseado em Função (RBAC)**: Gerencie permissões detalhadas de usuários e grupos, atribuindo papéis específicos para limitar o acesso a recursos.
+
+3. **Políticas de Bloqueio**: Implemente bloqueios de leitura ou exclusão para proteger recursos críticos contra alterações acidentais.
+
+4. **Identidade Gerenciada**: Simplifique a autenticação e acesso aos serviços Azure sem gerenciar credenciais.
+
+5. **Azure Active Directory (AAD)**: Centralize a autenticação e gerencie identidades para usuários e aplicativos de forma segura.
+
+6. **Monitoramento de Acesso**: Utilize o Azure Monitor e o Azure Security Center para rastrear e revisar atividades de acesso.
 
 
 ## 📎 Links Úteis
 - [Microsoft Learn - AZ-900 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 - [Simulados Whizlabs AZ-900](https://www.whizlabs.com/microsoft-azure-certification/az-900/)
 - [Exame de Certificação AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- [Documentação de Armazenamento no Azure](https://learn.microsoft.com/en-us/azure/storage/)
+- [Guia Oficial para Redução de Custos no Azure](https://learn.microsoft.com/en-us/azure/cost-management-billing/)
+- [Documentação Oficial de Gerenciamento de Políticas no Azure](https://learn.microsoft.com/en-us/azure/governance/policy/)
