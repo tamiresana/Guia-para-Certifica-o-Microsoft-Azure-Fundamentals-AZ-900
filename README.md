@@ -99,6 +99,39 @@ O Azure oferece várias opções de armazenamento para diferentes cenários:
 6. **Monitoramento de Acesso**: Utilize o Azure Monitor e o Azure Security Center para rastrear e revisar atividades de acesso.
 
 
+
+## 🚀 Ferramentas de Implantação na Azure
+
+1. **Azure DevOps**: Plataforma completa para CI/CD (Integração Contínua e Entrega Contínua) que facilita a automação de pipelines de build, teste e implantação.
+
+2. **GitHub Actions**: Automatize fluxos de trabalho diretamente no GitHub para implantar aplicações no Azure de forma integrada.
+
+3. **Azure Resource Manager (ARM)**: Use templates JSON para definir e implantar recursos na Azure de maneira consistente e automatizada.
+
+4. **Terraform**: Ferramenta de código aberto para infraestrutura como código (IaC) que permite implantar e gerenciar recursos Azure.
+
+5. **Azure CLI**: Interface de linha de comando para automatizar a criação, gerenciamento e implantação de recursos na Azure.
+
+6. **Azure PowerShell**: Ferramenta baseada em scripts para gerenciar e implantar serviços Azure diretamente no PowerShell.
+
+   
+
+## 📊 Monitoramento Inteligente com Azure
+
+1. **Azure Monitor**: Centralize o monitoramento de desempenho e integridade dos recursos Azure, coletando métricas e logs.
+
+2. **Application Insights**: Monitore aplicações em tempo real, analisando desempenho, falhas e uso, permitindo uma resposta rápida a problemas.
+
+3. **Log Analytics**: Analise e visualize dados de logs com consultas personalizadas, facilitando a identificação de tendências e problemas.
+
+4. **Alerts e Notificações**: Configure alertas para eventos e condições específicas, garantindo que as equipes sejam notificadas imediatamente sobre problemas críticos.
+
+5. **Azure Security Center**: Monitore e gerencie a segurança dos recursos Azure, identificando vulnerabilidades e recomendações de conformidade.
+
+6. **Workbooks**: Crie relatórios personalizados e dashboards para visualizar e compartilhar insights de monitoramento de forma interativa.
+
+
+
 ## 📎 Links Úteis
 - [Microsoft Learn - AZ-900 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 - [Simulados Whizlabs AZ-900](https://www.whizlabs.com/microsoft-azure-certification/az-900/)
@@ -106,3 +139,5 @@ O Azure oferece várias opções de armazenamento para diferentes cenários:
 - [Documentação de Armazenamento no Azure](https://learn.microsoft.com/en-us/azure/storage/)
 - [Guia Oficial para Redução de Custos no Azure](https://learn.microsoft.com/en-us/azure/cost-management-billing/)
 - [Documentação Oficial de Gerenciamento de Políticas no Azure](https://learn.microsoft.com/en-us/azure/governance/policy/)
+- [Documentação Oficial de Ferramentas de Implantação no Azure](https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops)
+- [Documentação Oficial sobre Monitoramento no Azure](https://learn.microsoft.com/en-us/azure/monitoring/)
